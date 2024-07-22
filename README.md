@@ -20,14 +20,14 @@ Hesban Amilcar Argueta Aguilar      | 201704787
 
 **Nombre: Jackeline Rivera**
 
-1. Sistema Operativo: 
-    <p> R. El sistema operativo es todo lo que contiene como por ejemplo programas que manejamos, almacenamiento, disco duro, etc. </p>
+> 1. Sistema Operativo: 
+   > <p> R. El sistema operativo es todo lo que contiene como por ejemplo programas que manejamos, almacenamiento, disco duro, etc. </p>
    
-2. Archivo: 
-    <p> R. Un archivo es un espacio donde se guarda nuestra información o los datos del mismo. </p>
+> 2. Archivo: 
+   > <p> R. Un archivo es un espacio donde se guarda nuestra información o los datos del mismo. </p>
    
-3. IP: 
-    <p> R. Sin respuesta. </p>
+> 3. IP: 
+    > <p> R. Sin respuesta. </p>
 
 #### Persona No. 2
 
