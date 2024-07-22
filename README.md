@@ -7,12 +7,12 @@ Segundo Semestre 2024
 Catedrático: Jesús Alberto Guzmán Polanco
 </p>
 
-###Datos Personales
+### Datos Personales
 Nombre                              | Carnet
 ----------------------------------- | -------------
 Hesban Amilcar Argueta Aguilar      | 201704787
 
-###Actividad 1 - Preguntas sobre SO
+### Actividad 1 - Preguntas sobre SO
 
 - Preguntar a dos personas que saben sobre los siguientes conceptos:     Sistema operativo, archivo e IP.
 - Realizar una conclusión en base a los comentarios obtenidos
