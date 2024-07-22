@@ -43,7 +43,7 @@ Hesban Amilcar Argueta Aguilar      | 201704787
     > <p> R. Dirrección de puerto del internet. </p>
 
 ### Conclusión
-< p style="text-align: justify;">
+<p style="text-align: justify;">
 En base a las respuestas obtenidas de las dos personas, podemos interpretar que, a pesar de poseer y consumir todo tipo de tecnología (Jackeline tiene teléfono inteligente, tablet, y computadora portátil; Keneth tiene teléfono portátil, teléfono inteligente y consola de videojuegos), ambas respuestas muesntran que tienen nociones sobre los conceptos mencionados, pero no un conocimiento profundo. Jackeline tiene una idea general sobre los sistemas operativos y los archivos; no obstante, keneth siendo una persona que es apasionado de la tecnología, demuestra un entendimiento más técnico, pero aún limitado, especialmente sobre el concepto de IP.
 
 Por lo tanto, se concluye que, aunque ambos utilizan la tecnología en su diario vivir, sus conocimientos, ideas y noción sobre los temas preguntados específicamente son básicos y no exhaustivos.
