@@ -20,26 +20,26 @@ Hesban Amilcar Argueta Aguilar      | 201704787
 
 **Nombre: Jackeline Rivera**
 
-**1. Sistema Operativo:  **
+1. Sistema Operativo: 
    R. El sistema operativo es todo lo que contiene como por ejemplo programas que manejamos, almacenamiento, discu duro, etc.
    
-**2. Archivo: **
+2. Archivo: 
    R. Un archivo es un espacio donde se guarda nuestra información o los datos del mismo.
    
-**3. IP: **
+3. IP: 
    R. Sin respuesta.
 
 #### Persona No. 2
 
 **Nombre: Kenneth Argueta**
 
-**1. Sistema Operativo:  **
+1. Sistema Operativo:  
    R. Es el software en e cual el aparato o dispositivo arrancará.
    
-**2. Archivo: **
+2. Archivo: 
    R. Es un espacio donde se almacena información.
    
-**3. IP: **
+3. IP: 
    R. Dirrección de puerto del internet.
 
 ### Conclusión
