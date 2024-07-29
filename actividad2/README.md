@@ -80,7 +80,7 @@ echo "Mensaje impreso y guardado en $log_file"
 ```
 ### Log file luego de la ejecución del script
 
-![Ejecución del log file](./imagenes/imagen1.jpg)
+![Ejecución del log file](./imagenes/imagen1.JPG)
 
 ### Cronjob
 
@@ -92,7 +92,7 @@ Se crea un cronjob para que el script se ejecute a cada 5 minutos.
 
 Mostrando lo siguiente:
 
-![Crontab](./imagenes/imagen2.jpg)
+![Crontab](./imagenes/imagen2.JPG)
 
 ### Comentarios
 <p style="text-align: justify;">
