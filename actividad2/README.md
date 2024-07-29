@@ -80,7 +80,7 @@ echo "Mensaje impreso y guardado en $log_file"
 ```
 ### Log file luego de la ejecución del script
 
-![Ejecución del log file](./imagenes/imagen1.png)
+![Ejecución del log file](./imagenes/imagen1.jpg)
 
 ### Cronjob
 
@@ -92,7 +92,9 @@ Se crea un cronjob para que el script se ejecute a cada 5 minutos.
 
 Mostrando lo siguiente:
 
-![Crontab](./imagenes/imagen2.png)
+![Crontab](./imagenes/imagen2.jpg)
 
 ### Comentarios
-
+<p style="text-align: justify;">
+El script anterior realizado en bash realiza una consulta en la API de GitHub para obtener información sobre un usuario (Hes-007) y almacena los resultados en un archivo de registro (saludos.log). El archivo perfectamente estructurado cubre aspectos claves como la validación de entradas y la creación de directorios. También se implemento un Cronjob para ejecutar el script períodicamente (cada 5 minutos). Esta práctica se ejecuto de manera satisfactorio con el objetivo de prácticar lo aprendido en clase.
+</p>
