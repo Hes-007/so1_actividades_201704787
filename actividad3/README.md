@@ -129,7 +129,7 @@ Hesban Amilcar Argueta Aguilar      | 201704787
 
     Verificando la membresía del `usuario2`:
 
-    ![Verificando la membresía del usuario2](./imagenes/img15.png)
+    ![Verificando la membresía del usuario2](./imagenes/img15.JPG)
 
 - ### 4. Eliminar Grupo
 
@@ -250,7 +250,7 @@ Hesban Amilcar Argueta Aguilar      | 201704787
 
     - Intento del `usuario2` de acceder al `archivo1.txt`:
 
-        ![Intento del usuario2 de acceder al archivo1.txt](./imagemes/img27.JPG)
+        ![Intento del usuario2 de acceder al archivo1.txt](./imagenes/img27.JPG)
 
     - Intento del `usuario2` de acceder al `directorio1/archivo2.txt`:
 
