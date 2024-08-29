@@ -95,11 +95,7 @@ Los traps son interrupciones generadas de forma deliberada por el propio procesa
 |---------|---------|-----------|
 |**Definicion**|Señales que interrumpen la ejecución normal del procesador para manejar eventos asíncronos externos o internos. |Señales internas que indican una condición especial, como una excepción o llamada al sistema.|
 |**Origen**|Externo al procesador (hardware) o software que genera una interrupción.|Interno al procesador, generalmente provocado por el software o errores.|
-|**Ejemplo de Eventos**|-Entrada del teclado
--Finalización de una operación de E/S
--Temporizador|-Entrada del teclado
--Finalización de una operación de E/S
--Temporizador|
+|**Ejemplo de Eventos**|-Entrada del teclado -Finalización de una operación de E/S -Temporizador|-Entrada del teclado -Finalización de una operación de E/S -Temporizador|
 |**Sincronización**|Asíncrono: puede ocurrir en cualquier momento sin depender del flujo de ejecución del programa.|Síncrono: ocurre en un punto específico del programa, como una instrucción que genera una excepción o una llamada al sistema.|
 |**Manejo**|Manejado por el kernel del sistema operativo a través de rutinas de manejo de interrupciones (Interrupt Service Routines, ISR).|Manejado por el kernel a través de manejadores de traps y excepciones.|
 |**Finalidad**|Responder a eventos externos que requieren la atención del sistema, como E/S o temporización.|Solicitar la intervención del kernel para realizar tareas específicas o manejar errores.|
