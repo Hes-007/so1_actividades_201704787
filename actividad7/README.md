@@ -25,23 +25,23 @@ El Completely Fair Scheduler (CFS) es el algoritmo de planificación predetermin
 #### **Características Principales**
 
 <p style="text-align: justify;">
-**Equidad:** CFS se basa en la idea de distribuir de manera justa el tiempo de CPU entre todos los procesos. A diferencia de otros algoritmos que asignan prioridades estáticas o dinámicas, CFS utiliza un sistema donde todos los procesos tienen la misma oportunidad de ejecutarse.
+Equidad: CFS se basa en la idea de distribuir de manera justa el tiempo de CPU entre todos los procesos. A diferencia de otros algoritmos que asignan prioridades estáticas o dinámicas, CFS utiliza un sistema donde todos los procesos tienen la misma oportunidad de ejecutarse.
 </p>
 
 <p style="text-align: justify;">
-**Tiempo virtual:** Cada proceso tiene asociado un "tiempo virtual" que mide cuánto tiempo ha utilizado la CPU en comparación con los demás procesos. Este tiempo se utiliza para determinar cuál proceso debe ejecutarse a continuación. Cuanto menos tiempo haya utilizado un proceso, más prioridad tendrá para ejecutarse.
+- Tiempo virtual: Cada proceso tiene asociado un "tiempo virtual" que mide cuánto tiempo ha utilizado la CPU en comparación con los demás procesos. Este tiempo se utiliza para determinar cuál proceso debe ejecutarse a continuación. Cuanto menos tiempo haya utilizado un proceso, más prioridad tendrá para ejecutarse.
 </p>
 
 <p style="text-align: justify;">
-**Árbol Rojo-Negro:** CFS utiliza una estructura de datos llamada "árbol rojo-negro" para mantener y ordenar los procesos en función de su tiempo virtual. Esta estructura permite insertar, eliminar y buscar procesos de manera eficiente, garantizando que el tiempo de planificación sea O(log N), donde N es el número de procesos en ejecución.
+- Árbol Rojo-Negro: CFS utiliza una estructura de datos llamada "árbol rojo-negro" para mantener y ordenar los procesos en función de su tiempo virtual. Esta estructura permite insertar, eliminar y buscar procesos de manera eficiente, garantizando que el tiempo de planificación sea O(log N), donde N es el número de procesos en ejecución.
 </p>
 
 <p style="text-align: justify;">
-**Comportamiento predecible:** CFS intenta evitar los problemas de latencia que se presentan en otros algoritmos, como los derivados de tener procesos que monopolizan la CPU durante mucho tiempo. Para ello, el algoritmo decide cuánto tiempo puede ejecutar un proceso antes de que se reevalúe su lugar en la cola.
+- Comportamiento predecible: CFS intenta evitar los problemas de latencia que se presentan en otros algoritmos, como los derivados de tener procesos que monopolizan la CPU durante mucho tiempo. Para ello, el algoritmo decide cuánto tiempo puede ejecutar un proceso antes de que se reevalúe su lugar en la cola.
 </p>
 
 <p style="text-align: justify;">
-**Grupos de tareas:** CFS también permite agrupar tareas en "grupos de tareas" para que varias tareas dentro de un mismo grupo compartan equitativamente la CPU. Este mecanismo es útil en entornos con múltiples usuarios o servicios que necesitan compartir el mismo servidor.
+- Grupos de tareas: CFS también permite agrupar tareas en "grupos de tareas" para que varias tareas dentro de un mismo grupo compartan equitativamente la CPU. Este mecanismo es útil en entornos con múltiples usuarios o servicios que necesitan compartir el mismo servidor.
 </p>
 
 #### Funcionamiento del CFS:
